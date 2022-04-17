@@ -15,3 +15,7 @@ int main()
 add();
 return 0;
 }
+
+
+Output-
+Sum of a and b is 11    
