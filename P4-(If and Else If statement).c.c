@@ -1,4 +1,4 @@
-// This program is to show the application of if else statement  //
+// This program is to show the application of if and else if statement  //
 
 
 #include <stdio.h>
