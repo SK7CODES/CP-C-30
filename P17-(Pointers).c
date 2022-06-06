@@ -17,6 +17,7 @@ printf ("Value pointed to : %ld\n", *ptr);
 
 
 Output-
+num's address : 0x7ffdcddf6bc8
 pointer's address : 0x7ffe4e327450
 pointer's size : 8 bytes
 pointer's value : 0x7ffe4e327448
