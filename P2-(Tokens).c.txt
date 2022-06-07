@@ -1,7 +1,6 @@
 //This program is to show various Tokens used in C //
 
-#include 
-<stdio.h>
+#include<stdio.h>
 int main ()
 
 {
