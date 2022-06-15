@@ -1,4 +1,4 @@
-// This program is to find sum of two numbers //
+// This program is to find sum of two numbers using Global Variable //
 
 #include <stdio.h>
 int a=7;
